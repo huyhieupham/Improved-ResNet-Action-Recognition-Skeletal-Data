@@ -16,7 +16,8 @@ Before running the experiments, you need to download and compile [VLFeat](http:/
 ![image-1](https://github.com/huyhieupham/Improved-ResNet-Action-Recognition-Skeletal-Data/blob/master/figure/KARD.png)
 
 <p align="center">
-Learning curves on KARD dataset.
+Learning curves on KARD dataset. Dashed lines
+denote training errors, bold lines denote test errors. 
 </p>
 
 
@@ -24,12 +25,14 @@ Learning curves on KARD dataset.
 ![](https://github.com/huyhieupham/Improved-ResNet-Action-Recognition-Skeletal-Data/blob/master/figure/MSR-Action3D.png)
                                           
 <p align="center">
- Learning curves on MSR Action3D dataset.
+ Learning curves on MSR Action3D dataset. Dashed lines
+denote training errors, bold lines denote test errors. 
 </p>
 
 
 ![](https://github.com/huyhieupham/Improved-ResNet-Action-Recognition-Skeletal-Data/blob/master/figure/NTU.png) 
 
 <p align="center">
-Learning curves on NTU-RGB+D dataset.
+Learning curves on NTU-RGB+D dataset. Dashed lines
+denote training errors, bold lines denote test errors. 
 </p>
