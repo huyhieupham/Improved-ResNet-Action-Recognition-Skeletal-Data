@@ -17,7 +17,7 @@ Before running the experiments, you need to download and compile [VLFeat](http:/
 
 <p align="center">
 Learning curves on KARD dataset. Dashed lines
-denote training errors, bold lines denote test errors. 
+denote training errors (%), bold lines denote test errors (%). 
 </p>
 
 
@@ -26,7 +26,7 @@ denote training errors, bold lines denote test errors.
                                           
 <p align="center">
  Learning curves on MSR Action3D dataset. Dashed lines
-denote training errors, bold lines denote test errors. 
+denote training errors (%), bold lines denote test errors (%). 
 </p>
 
 
@@ -34,5 +34,5 @@ denote training errors, bold lines denote test errors.
 
 <p align="center">
 Learning curves on NTU-RGB+D dataset. Dashed lines
-denote training errors, bold lines denote test errors. 
+denote training errors (%), bold lines denote test errors (%). 
 </p>
