@@ -13,16 +13,23 @@ Before running the experiments, you need to download and compile [VLFeat](http:/
 **Experimental results**
 
 
-![image-1](https://github.com/huyhieupham/Improved-ResNet-Action-Recognition-Skeletal-Data/blob/master/figure/Training-on-KARD.png)
+![image-1](https://github.com/huyhieupham/Improved-ResNet-Action-Recognition-Skeletal-Data/blob/master/figure/KARD.png)
 
 <p align="center">
-Model accuracy (%) on KARD dataset
+Learning curves on KARD dataset.
 </p>
 
 
 
-![](https://github.com/huyhieupham/Improved-ResNet-Action-Recognition-Skeletal-Data/blob/master/figure/Training-on-MRS-Action-3D.png)
+![](https://github.com/huyhieupham/Improved-ResNet-Action-Recognition-Skeletal-Data/blob/master/figure/MSR-Action3D.png)
                                           
 <p align="center">
- Model accuracy (%) on MSR Action3D dataset
+ Learning curves on MSR Action3D dataset.
+</p>
+
+
+![](https://github.com/huyhieupham/Improved-ResNet-Action-Recognition-Skeletal-Data/blob/master/figure/NTU.png) 
+
+<p align="center">
+Learning curves on NTU-RGB+D dataset.
 </p>
