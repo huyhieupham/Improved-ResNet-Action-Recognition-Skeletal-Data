@@ -13,7 +13,8 @@ Before running the experiments, you need to download and compile [VLFeat](http:/
 **Experimental results**
 
 
-![Model accuracy (%) on KARD dataset](https://github.com/huyhieupham/Improved-ResNet-Action-Recognition-Skeletal-Data/blob/master/figure/Training-on-KARD.png)
+![](https://github.com/huyhieupham/Improved-ResNet-Action-Recognition-Skeletal-Data/blob/master/figure/Training-on-KARD.png)
+Model accuracy (%) on KARD dataset
 
 ![Model accuracy (%) on MSR Action3D dataset](https://github.com/huyhieupham/Improved-ResNet-Action-Recognition-Skeletal-Data/blob/master/figure/Training-on-MRS-Action-3D.png)
 
